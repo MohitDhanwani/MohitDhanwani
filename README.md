@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohit Dhanwani</h1>
-<h3 align="center">🚀  Full Stack Developer | MERN, TypeScript | Focused on Web3 & Blockchain
-</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Focused on Web3 & Blockchain</h3>
 
 <p align="center">
   <a href="https://visionary-haupia-0a9287.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=react" />
   </a>
-  <a href="mailto:dhanwanimohit274@gmail.com">
+  <a href="mailto:dhanwanimohit274@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/mohit_54" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -38,23 +40,11 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🔍 Exploring Now
 
-<p align="left">
-  <a href="https://twitter.com/mohit_54" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:dhanwanimohit274@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ---
-
-### 📌 Projects
-
-Check out all my work here:  
-🔗 [Portfolio Website](https://visionary-haupia-0a9287.netlify.app/)
-
----
-
