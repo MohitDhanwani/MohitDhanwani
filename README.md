@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Dhanwani</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Focused on Web3 & Blockchain</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Web3 & Blockchain | AI & Machine Learning</h3>
 
 <p align="center">
+  <a href="https://leetcode.com/u/U9430GveVq/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
   <a href="https://visionary-haupia-0a9287.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=react" />
   </a>
@@ -17,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently focused on **Web3 and Blockchain Technologies**
+- 🔭 I’m currently focused on **Web3, Blockchain Technologies & AI Machine Learning**
 - 💼 Passionate about building impactful full stack web apps
 - 🛠️ Open to collaborations and freelance opportunities
 - 💬 Ask me about **React, Node.js, TypeScript, MongoDB, Docker, or Web3**
@@ -45,6 +48,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102770?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
