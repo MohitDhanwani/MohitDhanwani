@@ -5,14 +5,8 @@
   <a href="https://leetcode.com/u/U9430GveVq/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://visionary-haupia-0a9287.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=react" />
-  </a>
   <a href="mailto:dhanwanimohit274@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/mohit_54" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
