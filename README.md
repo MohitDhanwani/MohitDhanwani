@@ -2,8 +2,14 @@
 <h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Web3 & Blockchain | AI & Machine Learning</h3>
 
 <p align="center">
+  <a href="https://www.notion.so/Mohit-Dhanwani-2c7323ece6aa809ca00dfdb666f45860" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
   <a href="https://leetcode.com/u/U9430GveVq/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/mohitd27" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="mailto:dhanwanimohit274@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
@@ -14,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently focused on **Web3, Blockchain Technologies & AI Machine Learning**
+- 🔭  I'm currently focused on **Backend Technologies and learning System Design**
 - 💼 Passionate about building impactful full stack web apps
 - 🛠️ Open to collaborations and freelance opportunities
 - 💬 Ask me about **React, Node.js, TypeScript, MongoDB, Docker, or Web3**
@@ -40,10 +46,7 @@
 ### 🔍 Exploring Now
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-0078D4?style=for-the-badge&logo=blueprint&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102770?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
----
