@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Dhanwani</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Web3 & Blockchain | AI & Machine Learning</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN, TypeScript | Web3 & Blockchain</h3>
 
 <p align="center">
   <a href="https://www.notion.so/Mohit-Dhanwani-2c7323ece6aa809ca00dfdb666f45860" target="_blank">
